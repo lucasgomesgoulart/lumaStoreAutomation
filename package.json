@@ -1,0 +1,16 @@
+{
+  "name": "automationlumastore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "cypress": "^13.16.0"
+  }
+}
